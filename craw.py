@@ -11,8 +11,8 @@ driver.implicitly_wait(3)
 
 driver.get('https://everytime.kr/login')
 
-user_id = "jjayd"
-user_pw = "thdhvmxm!16"
+user_id = "ID"
+user_pw = "PASSWORD"
 driver.find_element_by_name('userid').send_keys(user_id)
 driver.find_element_by_name('password').send_keys(user_pw)
 
