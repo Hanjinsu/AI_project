@@ -6,13 +6,13 @@ from selenium.webdriver.common.by import By
 import sys, os
 import urllib
 
-driver = webdriver.Chrome('/Users/jjayd/Desktop/chromedriver.exe')
+driver = webdriver.Chrome('/home/jinsu/chromedriver')
 driver.implicitly_wait(3)
 
 driver.get('https://everytime.kr/login')
 
-user_id = "ID"
-user_pw = "PASSWORD"
+user_id = ""
+user_pw = ""
 driver.find_element_by_name('userid').send_keys(user_id)
 driver.find_element_by_name('password').send_keys(user_pw)
 
