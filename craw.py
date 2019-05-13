@@ -33,12 +33,29 @@ for c in course:
 			break
 
 		professor = driver.find_element_by_xpath('//*[@id="container"]/div[2]/p[1]/span').text
+		star = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[1]/span/span[1]').text
+		assignment = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[1]/span').text
+		teamproj = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[2]/span').text
+		percentage = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[3]/span').text
+		attendance = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[4]/span').text
+		testnum = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[5]/span').text
+
 		print("course: ",c)
 		print("professor: ",professor)
+		print("star: ",star)
+		print("assignment: ",assignment)
+		print("teamproject: ",teamproj)
+		print("percentage: ",percentage)
+		print("attendance: ",attendance)
+		print("testnum: ",testnum)
 		narticle=1
 		while True:
 			try:
 				arti=driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[2]/article['+str(narticle)+']/p[3]').text
+				semester = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[2]/article['+str(narticle)+']/p[2]/span').text
+				if(semester==""):
+					semester = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[2]/article/p[2]/span').text
+				print("semester: ",semester)
 				print("article: ",arti)
 				narticle=narticle+1
 			except:
@@ -46,4 +63,3 @@ for c in course:
 
 		ncourse=ncourse+1
 		print()
-	
