@@ -26,14 +26,22 @@ for c in course:
 		elem=driver.find_element_by_name("keyword")
 		elem.send_keys(c)
 		elem.submit()
-		
+
 		try:
 			driver.find_element_by_xpath('//*[@id="container"]/div/a['+str(ncourse)+']/h3/p[1]/span').click()
 		except:
 			break
 
+
+
 		professor = driver.find_element_by_xpath('//*[@id="container"]/div[2]/p[1]/span').text
 		star = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[1]/span/span[1]').text
+
+		if(star=="0"):
+			print("NO_Evaluation")
+			ncourse=ncourse+1
+			continue
+
 		assignment = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[1]/span').text
 		teamproj = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[2]/span').text
 		percentage = driver.find_element_by_xpath('//*[@id="container"]/div[4]/div[1]/div[2]/p[3]/span').text
