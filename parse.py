@@ -5,7 +5,7 @@ from konlpy.utils import pprint
 kkma = Kkma()
 
 r = io.open('dataset.txt',mode='r',encoding='utf-8')
-f = io.open('output.txt',mode='wt',encoding='utf-8')
+f = io.open('output2.txt',mode='wt',encoding='utf-8')
 while 1 :
 	line = r.readline()
 	if not line : break

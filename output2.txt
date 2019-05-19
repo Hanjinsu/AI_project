@@ -1,0 +1,11 @@
+#
+course:  유비쿼터스사회와소통능력
+professor:  송해룡
+star:  3.96
+assignment:  보통
+teamproject:  보통
+percentage:  학점느님
+attendance:  직접호명
+testnum:  한 번
+semester:  18년 2학기 수강자
+starnum:  3.0
