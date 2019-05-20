@@ -1,0 +1,1890 @@
+유비쿼터스사회와소통능력
+
+<article  0 >
+# 0   3.0
+
+솔직히	솔직히/MAG
+뭐	뭐/NP
+들었는지	듣/VV + 었/EP + 는지/EC
+잘	잘/MAG
+기억	기억/NNG
+안남.	안남/NNG + ./SF
+
+# 1   3.0
+
+교안만	교안/NNG + 만/JX
+달달	달달/MAG
+외웠는데,	외우/VV + 었/EP + 는데/EC + ,/SP
+시험	시험/NNG
+자체는	자체/NNG + 는/JX
+그렇게	그렇/VA + 게/EC
+어려운	어렵/VA + ㄴ/ETM
+편이	편/NNB + 이/JKC
+아님.	아니/VCN + ㅁ/ETN + ./SF
+
+# 2   3.0
+
+후반	후반/NNG
+수업은	수업/NNG + 은/JX
+거의	거의/MAG
+팀플	팀플/NNG
+발표로	발표/NNG + 로/JKB
+대체하는	대체/NNG + 하/XSV + 는/ETM
+걸	것/NNB + ㄹ/JKO
+보면	보/VV + 면/EC
+팀플	팀플/NNG
+가중치가	가중치/NNG + 가/JKS
+큰	크/VA + ㄴ/ETM
+것으로	것/NNB + 으로/JKB
+보임.	보/VV + 임/NNG + ./SF
+
+# 3   3.0
+
+결론은	결론/NNG + 은/JX
+팀플	팀플/NNG
+좋은	좋/VA + 은/ETM
+사람들	사람/NNG + 들/XSN
+만나면	만나/VV + 면/EC
+괜찮지만,	괜찮/VA + 지만/EC + ,/SP
+팀플	팀플/NNG
+조편성	조편/NNG + 성/XSN
+망하면	망하/VV + 면/EC
+학점	학점/NNG
+미국	미국/NNP
+감.	감/NNG + ./SF
+
+<article  1 >
+# 0   4.0
+
+하라는	하/VV + 라는/ETM
+것	것/NNB
+하고,	하/VV + 고/EC + ,/SP
+포럼	포럼/NNG
+잘	잘/MAG
+참석하면	참석/NNG + 하/XSV + 면/EC
+학점	학점/NNG
+잘	잘/MAG
+주시네요.	주/NNG + 시/EP + 네요/EF + ./SF
+
+# 1   4.0
+
+그리고	그리고/MAJ
+질문	질문/NNG
+많이	많이/MAG
+하세요!	하/VV + 시/EP + 어요/EF + !/SF
+
+<article  2 >
+# 0   3.0
+
+시험	시험/NNG
+한번만	한/MM + 번/NNB + 만/JX
+있어서	있/VV + 어서/EC
+좋은데	좋/VA + 은데/EC
+범위	범위/NNG
+도	도/NNG
+당연히	당연히/MAG
+넓어진다.	넓/VA + 어/EC + 지/VX + ㄴ다/EF + ./SF
+
+<article  3 >
+# 0   3.0
+
+수업은	수업/NNG + 은/JX
+편하게	편하/VA + 게/EC
+들을	듣/VV + 을/ETM
+수	수/NNB
+있습니다.	있/VV + 습니다/EF + ./SF
+
+# 1   3.0
+
+과제	과제/NNG
+조원이	조원/NNG + 이/JKS
+어떠냐에	어떻/VA + 냐/EC + 에/JKB
+따라	따르/VV + 아/EC
+수업	수업/NNG
+난이도가	난이도/NNG + 가/JKS
+달라지긴	달라지/VV + 기/ETN + ㄴ/JX
+
+# 2   3.0
+
+하지만..	하/VX + 지/EC + 만/EF + ../SE
+
+# 3   3.0
+
+뒤로	뒤/NNG + 로/JKB
+갈수록	가/VV + ㄹ수/EC + 록/MAG
+교수님께서	교수/NNG + 님/XSN + 께서/JKS
+팀플에	팀플/NNG + 에/JKB
+기대하시는	기대/NNG + 하/XSV + 시/EP + 는/ETM
+바가	바/NNB + 가/JKS
+많아집니다.	많/VA + 아/EC + 지/VX + ㅂ니다/EF + ./SF
+
+<article  4 >
+# 0   3.0
+
+팀플이	팀플/NNG + 이/JKS
+많이	많이/MAG
+빡세요	빡/VV + 시/EP + 어요/EC
+
+# 1   3.0
+
+준비시간도	준비/NNG + 시간/NNG + 도/JX
+많이들구요..	많이/MAG + 들/VCP + 구요/EF + ../SE
+
+# 2   3.0
+
+시험은	시험/NNG + 은/JX
+배운거에서	배/NNP + 운거/NNG + 에서/JKB
+다	다/MAG
+논술로	논술/NNG + 로/JKB
+나와요	나오/VV + 아요/EC
+
+<article  5 >
+# 0   5.0
+
+4차산업혁명과	4/SN + 차산업/NNG + 혁명/NNG + 과/JC
+디지털리스크라는	디지털리스/NNG + 크/NNP + 이/VCP + 라는/ETM
+주제를	주제/NNG + 를/JKO
+전체적으로	전체/NNG + 적/XSN + 으로/JKB
+훑어보는	훑어보/VV + 는/ETM
+식으로	식/NNB + 으로/JKB
+강의를	강의/NNG + 를/JKO
+해주셔서	하/VV + 여/EC + 주/VX + 시/EP + 어서/EC
+흥미롭게	흥미/NNG + 롭/XSA + 게/EC
+들었습니다.	듣/VV + 었/EP + 습니다/EF + ./SF
+
+# 1   5.0
+
+수업은	수업/NNG + 은/JX
+크게	크/VA + 게/EC
+부담이	부담/NNG + 이/JKS
+없지만	없/VA + 지만/EC
+조별발표의	조별/NNG + 발표/NNG + 의/JKG
+비중이	비중/NNG + 이/JKS
+매우	매우/MAG
+높습니다.	높/VA + 습니다/EF + ./SF
+
+# 2   5.0
+
+45분짜리	45/SN + 분/NNB + 짜리/XSN
+발표와	발표/NNG + 와/JC
+질의응답을	질의응답/NNG + 을/JKO
+7~8명이	7/SN + ~/SO + 8/SN + 명/NNB + 이/JKS
+준비해야하는데,	준비/NNG + 하/XSV + 여야/EC + 하/VX + 는데/EC + ,/SP
+많은	많/VA + 은/ETM
+노력과	노력/NNG + 과/JC
+팀플	팀플/NNG
+스킬이	스킬/NNG + 이/JKS
+필요합니다.	필요/NNG + 하/XSA + ㅂ니다/EF + ./SF
+
+# 3   5.0
+
+저는	저/NP + 는/JX
+다양한	다양/NNG + 하/XSA + ㄴ/ETM
+학과(이과	학과/NNG + (/SS + 이/NNP + 과/JC
+학부생들도	학부생/NNG + 들/XSN + 도/JX
+많이	많이/MAG
+듣습니다)분들과	듣/VV + 습니다/EF + )/SS + 분/NNB + 들/XSN + 과/JKB
+
+# 4   5.0
+
+많은	많/VA + 은/ETM
+이야기를	이야기/NNG + 를/JKO
+나누면서	나누/VV + 면서/EC
+재밌게	재밌/VA + 게/EC
+준비해서,	준비/NNG + 하/XSV + 여서/EC + ,/SP
+힘들었지만	힘들/VA + 었/EP + 지만/EC
+좋았던	좋/VA + 았/EP + 던/ETM
+수업입니다.	수업/NNG + 이/VCP + ㅂ니다/EF + ./SF
+
+<article  6 >
+# 0   4.0
+
+일단	일단/MAG
+팀플	팀플/NNG
+참여도가	참여/NNG + 도/NNG + 가/JKS
+가장	가장/MAG
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+것	것/NNB
+같아요	같/VA + 아요/EC
+
+# 1   4.0
+
+포럼	포럼/NNG
+참여도	참여/NNG + 도/JX
+중시하시는	중시/NNG + 하/XSV + 시/EP + 는/ETM
+편입니다.	편/NNB + 이/VCP + ㅂ니다/EF + ./SF
+
+<article  7 >
+# 0   4.0
+
+교수님이	교수/NNG + 님/XSN + 이/JKS
+굉장히	굉장히/MAG
+세련되셔서	세/NNG + 련/XR + 되/XSA + 시/EP + 어서/EC
+매번	매번/MAG
+영상물	영상물/NNG
+같은	같/VA + 은/ETM
+자료도	자료/NNG + 도/JX
+자주	자주/MAG
+보여주시고	보이/VV + 어/EC + 주/VX + 시/EP + 고/EC
+세시간	세/MM + 시/EP + 간/NNG
+수업인데	수업/NNG + 이/VCP + ㄴ데/EC
+쉬는시간도	쉬/VV + 는/EC + 시/EP + 간/NNG + 도/JX
+꼬박꼬박	꼬박꼬박/MAG
+잘	잘/MAG
+주셔서	주/VV + 시/EP + 어서/EC
+힘들지	힘들/VA + 지/EC
+않았어요!	않/VX + 았/EP + 어요/EF + !/SF
+
+# 1   4.0
+
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+건	것/NNB + ㄴ/JX
+팀플인	팀플/NNG + 이/VCP + ㄴ/ETM
+거	거/NNB
+같아요	같/VA + 아요/EC
+
+# 2   4.0
+
+인풋도	인풋/NNG + 도/JX
+많이	많이/MAG
+들고	들/VV + 고/EC
+발표시간만큼	발표/NNG + 시간/NNG + 만큼/JKB
+질의응답	질의응답/NNG
+가지는데	가지/NNB + 는데/EC
+다들	다/NNG + 들/XSN
+점수따려고	점수/NNG + 따리/VV + 어고/EC
+열심히	열심히/MAG
+질문해서...그리고	질문/NNG + 하/XSV + 여서/EC + .../SE + 그리고/MAJ
+뭐든	뭐/NP + 이/VCP + 든/EC
+시간엄수를	시간/NNG + 엄수/NNG + 를/JKO
+잘	잘/MAG
+하시는	하/VV + 시/EP + 는/ETM
+걸	것/NNB + ㄹ/JKO
+좋아하세요	좋아하/VV + 시/EP + 어요/EC
+
+<article  8 >
+# 0   4.0
+
+수업	수업/NNG
+내용	내용/NNG
+자체는	자체/NNG + 는/JX
+크게	크/VA + 게/EC
+어렵지는	어렵/VA + 지/EC + 는/JX
+않았어요.	않/VX + 았/EP + 어요/EF + ./SF
+
+# 1   4.0
+
+송해룡	송해룡/NNP
+교수님이라고	교수/NNG + 님/XSN + 이/VCP + 라고/EC
+나와있지만	나오/VV + 아/EC + 있/VX + 지만/EC
+조항민	조항/NNP + 민/NNG
+교수님이	교수/NNG + 님/XSN + 이/JKS
+강의하십니다!	강의/NNG + 하/XSV + 시/EP + ㅂ니다/EF + !/SF
+
+# 2   4.0
+
+센스있으시고	센스/NNG + 있/VV + 으/EC + 시/EP + 고/EC
+재미있으세요-	재미있/VA + 으/EC + 시/EP + 어요/EC + -/SS
+
+# 3   4.0
+
+출결을	출결/NNG + 을/JKO
+매번	매번/MAG
+체크하시지는	체크/NNG + 하/XSV + 시/EP + 지/EC + 는/JX
+않았는데	않/VX + 았/EP + 는데/EC
+불렀을	부르/VV + 었/EP + 을/ETM
+때	때/NNG
+결석이면	결석/NNG + 이/VCP + 면/EC
+크게	크/VA + 게/EC
+불이익이	불/XPN + 이익/NNG + 이/JKS
+있을거라고	있/VV + 을/ETM + 거/NNB + 이/VCP + 라고/EC
+얘기하시곤했습니다,,	얘기/NNG + 하/XSV + 시곤/NNG + 하/XSV + 였/EP + 습니다/EC + ,,/SP
+시험은	시험/NNG + 은/JX
+기말고사만	기말고/NNG + 사/EC + 만/JX
+봅니다	보/VV + ㅂ니다/EC
+대신	대신/NNG
+발표	발표/NNG
+한	한/MM
+번	번/NNB
+과제	과제/NNG
+2번	2/SN + 번/NNB
+있는데	있/VV + 는데/EC
+과제는	과제/NNG + 는/JX
+IoT제품	IoT/SL + 제품/NNG
+소개	소개/NNG
+피피티,아이디스오더	피피티/NNG + ,/SP + 아/NNP + 이/NNG + 디/NNP + 스오더/NNG
+독후감	독후감/NNG
+이었어요	잇/VV + 었/EP + 어요/EC
+
+# 4   4.0
+
+중간고사	중간고사/NNG
+기간	기간/NNG
+이후로는	이후/NNG + 로/JKB + 는/JX
+수업은	수업/NNG + 은/JX
+안하고	안/MAG + 하/VV + 고/EC
+조별	조/NNG + 별/XSN
+발표만	발표/NNG + 만/JX
+합니다.	하/VV + ㅂ니다/EF + ./SF
+
+# 5   4.0
+
+1교시	1/SN + 교시/NNB
+였는데	이/VCP + 었/EP + 는데/EC
+9시	9/SN + 시/NNB
+30분까지로	30/SN + 분/NNB + 까지/JX + 로/JKB
+바뀝니다.	바뀌/VV + ㅂ니다/EF + ./SF
+
+# 6   4.0
+
+조별	조/NNG + 별/XSN
+발표	발표/NNG
+비중이	비중/NNG + 이/JKS
+굉장히	굉장히/MAG
+큰데	크/VA + ㄴ데/EC
+평가지	평가지/NNG
+나눠줘서	나누/VV + 어/EC + 주/VX + 어서/EC
+학생들도	학생/NNG + 들/XSN + 도/JX
+평가합니다.	평가/NNG + 하/XSV + ㅂ니다/EF + ./SF
+
+# 7   4.0
+
+발표끝나고	발표/NNG + 끝나/VV + 고/EC
+q&a	q/SL + &/SW + a/SL
+때	때/NNG
+질문	질문/NNG
+많이하셔야	많이/MAG + 하/XSV + 시/EP + 어야/EC
+학점	학점/NNG
+잘	잘/MAG
+받는	받/VV + 는/ETM
+거	거/NNB
+같아요	같/VA + 아요/EC
+
+# 8   4.0
+
+지난	지나/VV + ㄴ/ETM
+학기는	학기/NNG + 는/JX
+학생들이	학생/NNG + 들/XSN + 이/JKS
+하도	하도/MAG
+이상한	이상/NNG + 하/XSA + ㄴ/ETM
+질문	질문/NNG
+많이해서	많이/MAG + 하/VV + 여서/EC
+중간에	중간/NNG + 에/JKB
+교수님이	교수/NNG + 님/XSN + 이/JKS
+좋은	좋/VA + 은/ETM
+질문	질문/NNG
+이어야만	잇/VV + 어야/EC + 만/JX
+점수를	점수/NNG + 를/JKO
+준다고	주/VV + ㄴ다고/EC
+얘기	얘기/NNG
+하셨어요	하/VV + 시/EP + 었/EP + 어요/EF
+
+# 9   4.0
+
+발표조가	발표조/NNG + 가/JKS
+전날에	전날/NNG + 에/JKB
+피피티	피피티/NNG
+올리니까	올리/VV + 니까/EC
+미리	미리/MAG
+질문	질문/NNG
+준비해오시는	준비/NNG + 하/XSV + 여/EC + 오/VX + 시/EP + 는/ETM
+게	것/NNB + 이/JKS
+좋으실거예요!	좋/VA + 으시/EP + ㄹ/ETM + 거/EF + 이/VCP + 에요/EF + !/SF
+
+# 10   4.0
+
+발표	발표/NNG
+내용이	내용/NNG + 이/JKS
+4찬산업혁명	4/SN + 찬산업/NNG + 혁명/NNG
+리스크에	리스크/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+내용들이라	내용/NNG + 들/XSN + 이/VCP + 라/EC
+쉽지	쉽/VA + 지/EC
+않습니다.	않/VX + 습니다/EF + ./SF
+
+# 11   4.0
+
+겨수님이	겨수/NNG + 님/XSN + 이/JKS
+발표	발표/NNG
+끝나면	끝나/VV + 면/EC
+코멘트를	코멘트/NNG + 를/JKO
+다시는데	다시/MAG + 는데/EC
+그걸	그것/NP + ㄹ/JKO
+잘	잘/MAG
+듣고	듣/VV + 고/EC
+발표	발표/NNG
+준비	준비/NNG
+했더니	하/VV + 였/EP + 더니/EC
+저희	저희/NP
+조는	조/NNG + 는/JX
+높은	높/VA + 은/ETM
+점수를	점수/NNG + 를/JKO
+받았네요~	받/VV + 았/EP + 네요/EC + ~/SO
+
+# 12   4.0
+
+기말고사는	기말고/NNG + 사/NNP + 는/ETM
+어렵지	어렵/VA + 지/EC
+않습니다	않/VX + 습니다/EC
+약술형이고	약술/NNG + 형/XSN + 이/VCP + 고/EC
+수업때	수업/NNG + 때/NNG
+강조하시는	강조/NNG + 하/XSV + 시/EP + 는/ETM
+부분이나	부분/NNG + 이나/JC
+교안에	교안/NNG + 에/JKB
+없는	없/VA + 는/ETM
+내용	내용/NNG
+필기하시구	필기/NNG + 하/XSV + 시/EP + 구/EC
+교안안에서	교안안/NNG + 에서/JKB
+다	다/MAG
+나와요!	나오/VV + 아요/EF + !/SF
+
+# 13   4.0
+
+발표	발표/NNG
+빨리	빨리/MAG
+모여서	모이/VV + 어서/EC
+준비해두셔야	준비/NNG + 하/XSV + 여/EC + 두/VX + 시/EP + 어야/EC
+나중에	나중/NNG + 에/JKB
+안힘들어요	안히/VV + ㅁ/ETN + 들/VX + 어요/EC
+
+# 14   4.0
+
+ㅠㅠ	ㅠ/NNG + ㅠ/ETN
+
+<article  9 >
+# 0   4.0
+
+중간고사가	중간/NNG + 고사/NNG + 가/JKS
+없어	없/VA + 어/EC
+좋았네요.	좋/VA + 았/EP + 네요/EF + ./SF
+
+# 1   4.0
+
+팀플	팀플/NNG
+주제에	주제/NNG + 에/JKB
+따라	따르/VV + 아/EC
+난이도가	난이도/NNG + 가/JKS
+올라갈	올라가/VV + ㄹ/ETM
+수	수/NNB
+있어요.	있/VV + 어요/EF + ./SF
+
+# 2   4.0
+
+수업은	수업/NNG + 은/JX
+유익합니다.	유익/NNG + 하/XSV + ㅂ니다/EF + ./SF
+
+<article  10 >
+<article  11 >
+# 0   5.0
+
+송해룡	송해룡/NNP
+교수님이라고	교수/NNG + 님/XSN + 이/VCP + 라고/EC
+써있지만,	써/VV + 있/VX + 지만/EC + ,/SP
+조항민	조항/NNP + 민/NNG
+교수님이	교수/NNG + 님/XSN + 이/JKS
+모든	모든/MM
+수업을	수업/NNG + 을/JKO
+주관하신다.	주관/NNG + 하/XSV + 시/EP + ㄴ다/EF + ./SF
+
+# 1   5.0
+
+(수업	(/SS + 수업/NNG
+초반에	초반/NNG + 에/JKB
+번갈아가면서	번갈/VV + 아/EC + 가/VX + 면서/EC
+하신다고	하/VV + 시/EP + ㄴ다고/EC
+했지만	하/VV + 였/EP + 지만/EC
+그렇지는	그렇/VA + 지/EC + 는/JX
+않았다.	않/VX + 았/EP + 다/EF + ./SF
+
+# 2   5.0
+
+전	전/MM
+학기들	학기/NNG + 들/XSN
+평가를	평가/NNG + 를/JKO
+봐도	보/VV + 아도/EC
+송해룡	송해룡/NNP
+교수님은	교수/NNG + 님/XSN + 은/JX
+많아봐야	많/VA + 아/EC + 보/VX + 아야/EC
+2~3회	2/SN + ~/SO + 3/SN + 회/NNB
+오시는	오/VV + 시/EP + 는/ETM
+듯	듯/NNB
+하다.)	하/VV + 다/EF + ./SF + )/SS
+
+# 3   5.0
+
+이	이/MM
+수업의	수업/NNG + 의/JKG
+가장	가장/MAG
+핵심은	핵심/NNG + 은/JX
+출석,	출석/NNG + ,/SP
+과제(큰	과제/NNG + (/SS + 크/VA + ㄴ/ETM
+점수	점수/NNG
+차이는	차이/NNG + 는/JX
+없어보이니	없/VA + 어/EC + 보/VX + 이/VV + 니/EC
+성의만	성의/NNG + 만/JX
+있어보이게	있/VV + 어/EC + 보/VX + 이/VV + 게/EC
+하면	하/VX + 면/EC
+되는	되/VV + 는/ETM
+듯	듯/NNB
+하다.),	하/VV + 다/EF + ./SF + )/SS + ,/SP
+
+# 4   5.0
+
+발표수업	발표/NNG + 수업/NNG
+Q&A	Q/SL + &/SW + A/SL
+이라고	이/VCP + 라/EC + 고/JKQ
+생각한다.	생각/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+# 5   5.0
+
+적극	적극/NNG
+참여해서	참여/NNG + 하/XSV + 여서/EC
+추가	추가/NNG
+점수를	점수/NNG + 를/JKO
+얻고	얻/VV + 고/EC
+교수님	교수/NNG + 님/XSN
+눈도장을	눈도장/NNG + 을/JKO
+찍자.	찍/VV + 자/EF + ./SF
+
+# 6   5.0
+
+시험은	시험/NNG + 은/JX
+사실	사실/MAG
+어렵지	어렵/VA + 지/EC
+않고,	않/VX + 고/EC + ,/SP
+자료만	자료/NNG + 만/JX
+열심히	열심히/MAG
+읽어가면	읽/VV + 어/EC + 가/VX + 면/EC
+어느정도	어느/MM + 정도/NNG
+성적은	성적/NNG + 은/JX
+보장되기	보장/NNG + 되/XSV + 기/ETN
+
+# 7   5.0
+
+때문에	때문/NNB + 에/JKB
+비중이	비중/NNG + 이/JKS
+높아도	높/VA + 아도/EC
+크게	크/VA + 게/EC
+변별력은	변별력/NNG + 은/JX
+없다.	없/VA + 다/EF + ./SF
+
+# 8   5.0
+
+조발표	조발표/NNG
+점수는	점수/NNG + 는/JX
+자신이	자신/NNG + 이/JKS
+적극적으로	적극/NNG + 적/XSN + 으로/JKB
+참여했다면	참여/NNG + 하/XSV + 였/EP + 다/EF + 면/EC
+
+# 9   5.0
+
+좋은	좋/VA + 은/ETM
+점수가	점수/NNG + 가/JKS
+나올	나오/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+# 10   5.0
+
+다른	다른/MM
+조들을	조/NNG + 들/XSN + 을/JKO
+봐도	보/VV + 아도/EC
+열심히	열심히/MAG
+하는	하/VV + 는/ETM
+멤버가	멤버/NNG + 가/JKS
+보이는	보이/VV + 는/ETM
+조는	조/NNG + 는/JX
+무조건	무조건/MAG
+발표가	발표/NNG + 가/JKS
+좋았다.	좋/VA + 았/EP + 다/EF + ./SF
+
+# 11   5.0
+
+재밌는	재밌/VA + 는/ETM
+수업이니	수업/NNG + 이/VCP + 니/EC
+귀를	귀/NNG + 를/JKO
+열고	열/VV + 고/EC
+들어본다면	듣/VV + 어/EC + 보/VX + ㄴ다면/EC
+스스로	스스로/MAG
+좋은	좋/VA + 은/ETM
+학점을	학점/NNG + 을/JKO
+받을	받/VV + 을/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+좋은	좋/VA + 은/ETM
+수업이었다.	수업/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+
+<article  12 >
+# 0   5.0
+
+조항민	조항/NNP + 민/NNG
+교수님	교수/NNG + 님/XSN
+수업이다.	수업/NNG + 이/VCP + 다/EF + ./SF
+
+# 1   5.0
+
+송해룡	송해룡/NNP
+교수님은	교수/NNG + 님/XSN + 은/JX
+수업에	수업/NNG + 에/JKB
+안	안/MAG
+오신다.	오/VV + 시/EP + ㄴ다/EF + ./SF
+
+# 2   5.0
+
+간달프	간달프/NNG
+공포증이	공포증/NNG + 이/JKS
+있다면	있/VV + 다면/EC
+어차피	어차피/MAG
+오시지	오/VV + 시/EP + 지/EC
+않으니	않/VX + 으니/EC
+안심하고	안심/NNG + 하/XSV + 고/EC
+신청하자.	신청/NNG + 하/XSV + 자/EF + ./SF
+
+# 3   5.0
+
+조항민	조항/NNP + 민/NNG
+교수님은	교수/NNG + 님/XSN + 은/JX
+젊고	젊/VA + 고/EC
+센스	센스/NNG
+넘치신다.	넘치/VV + 시/EP + ㄴ다/EF + ./SF
+
+# 4   5.0
+
+출결을	출결/NNG + 을/JKO
+루즈하게	루즈/NNG + 하/XSV + 게/EC
+하는	하/VX + 는/ETM
+듯	듯/NNB
+하지만,	하/VX + 지만/EC + ,/SP
+솔직히	솔직히/MAG
+중요하게	중요/NNG + 하/XSA + 게/EC
+여기신다.	여/NP + 기/VV + 시/EP + ㄴ다/EF + ./SF
+
+# 5   5.0
+
+루즈하니까	루즈/NNG + 하/XSV + 니까/EC
+빠져야지~	빠지/VV + 어야지/EC + ~/SO
+이번주에	이번주/NNG + 에/JKB
+안부르신대~	안부/VV + 르신대/NNP + ~/SO
+하면	하/VV + 면/EC
+갑자기	갑자기/MAG
+대다수	대다수/NNG
+학생이	학생/NNG + 이/JKS
+안	안/MAG
+옴.	오/VV + ㅁ/ETN + ./SF
+
+# 6   5.0
+
+그러면	그러면/MAJ
+교수님이	교수/NNG + 님/XSN + 이/JKS
+열받으셔서	열/NNG + 받/VV + 으/EC + 시/EP + 어서/EC
+출석	출석/NNG
+부르시고	부르/VV + 시/EP + 고/EC
+비중	비중/NNG
+엄청	엄청/MAG
+두기	두/VV + 기/ETN
+
+# 7   5.0
+
+시작하신다.	시작/NNG + 하/XSV + 시/EP + ㄴ다/EF + ./SF
+
+# 8   5.0
+
+수업을	수업/NNG + 을/JKO
+왜	왜/MAG
+빠지나?	빠지/VV + 나/EF + ?/SF
+
+# 9   5.0
+
+기본적인	기본/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+거는	거/NNB + 는/JX
+좀	좀/MAG
+하고	하/VV + 고/EC
+좋다	좋/VA + 다/EC
+안	안/MAG
+좋다	좋/VA + 다/EC
+평가하자.	평가/NNG + 하/XSV + 자/EF + ./SF
+
+# 10   5.0
+
+팀플이	팀플/NNG + 이/JKS
+이	이/MM
+수업의	수업/NNG + 의/JKG
+하이라이트다.	하이라이트/NNG + 이/VCP + 다/EF + ./SF
+
+# 11   5.0
+
+교수님이	교수/NNG + 님/XSN + 이/JKS
+원하시는	원하/VV + 시/EP + 는/ETM
+것을	것/NNB + 을/JKO
+잘	잘/MAG
+들어보고,	듣/VV + 어/EC + 보/VX + 고/EC + ,/SP
+다른	다른/MM
+조가	조/NNG + 가/JKS
+하면서	하/VV + 면서/EC
+어떤	어떤/MM
+점이	점/NNG + 이/JKS
+아쉬웠는지	아쉽/VA + 었/EP + 는지/EC
+총평해	총평/NNG + 하/XSV + 여/EC
+주실	주/VX + 시/EP + ㄹ/ETM
+때도	때/NNG + 도/JX
+잘	잘/MAG
+받아	받/VV + 아/EC
+적자.	적/VV + 자/EF + ./SF
+
+# 12   5.0
+
+그리고	그리고/MAJ
+해도	하/VV + 여도/EC
+될지	되/VV + ㄹ지/EC
+잘	잘/MAG
+모르겠는	모르/VV + 겠/EP + 는/ETM
+것이	것/NNB + 이/JKS
+있으면	있/VV + 으면/EC
+교수님께	교수/NNG + 님/XSN + 께/JKB
+여쭤보라.	여쭈/VV + 어/EC + 보/VX + 라/EF + ./SF
+
+# 13   5.0
+
+친절하게	친절/NNG + 하/XSA + 게/EC
+답변해	답변/NNG + 하/XSV + 여/EC
+주실	주/VX + 시/EP + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+# 14   5.0
+
+그리고	그리고/MAJ
+그대로	그대로/MAG
+했을	하/VV + 였/EP + 을/ETM
+때	때/NNG
+돌아오는	돌아오/VV + 는/ETM
+보상도	보상/NNG + 도/JX
+아주	아주/MAG
+크다.	크/VA + 다/EF + ./SF
+
+# 15   5.0
+
+포럼	포럼/NNG
+출석해	출석/NNG + 하/XSV + 여/EC
+달라고	달/VX + 라고/EC
+하시는데,	하/VV + 시/EP + 는데/EC + ,/SP
+내용	내용/NNG
+유익하다...	유익/NNG + 하/XSA + 다/EF + .../SE
+
+# 16   5.0
+
+신방과라면	신방과/NNG + 이/VCP + 라면/EC
+한	한/MM
+번쯤	번/NNB + 쯤/NNB
+가볼	가/VV + 아/EC + 보/VX + ㄹ/ETM
+만	만/NNB
+하다.	하/VV + 다/EF + ./SF
+
+# 17   5.0
+
+가면	가/VV + 면/EC
+신방과	신방/NNG + 과/JC
+교수님들	교수/NNG + 님/XSN + 들/XSN
+좀	좀/MAG
+오시는데,	오/VV + 시/EP + 는데/EC + ,/SP
+수업	수업/NNG
+듣는	듣/VV + 는/ETM
+교수님	교수/NNG + 님/XSN
+그	그/MM
+자리에	자리/NNG + 에/JKB
+계시면	계시/VV + 면/EC
+어	어/MM
+쟤가	쟤/NP + 가/JKS
+오네,	오/VV + 네/EC + ,/SP
+하고	하/VV + 고/EC
+기억해	기억/NNG + 하/XSV + 여/EC
+주실	주/VX + 시/EP + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+# 18   5.0
+
+교수님	교수/NNG + 님/XSN
+학생들	학생/NNG + 들/XSN
+개별적으로	개별/NNG + 적/XSN + 으로/JKB
+다	다/MAG
+기억하시고,	기억/NNG + 하/XSV + 시/EP + 고/EC + ,/SP
+최대한	최대한/NNG
+의견	의견/NNG
+반영해주려고	반영/NNG + 하/XSV + 여/EC + 주/VX + 려고/EC
+노력하신다.	노력/NNG + 하/XSV + 시/EP + ㄴ다/EF + ./SF
+
+# 19   5.0
+
+하라는	하/VV + 라는/ETM
+것	것/NNB
+하고,	하/VV + 고/EC + ,/SP
+하지	하/VV + 지/EC
+말라는	말/VX + 라는/ETM
+것	것/NNB
+안하면	안/MAG + 하/VV + 면/EC
+성적	성/NNG + 적/XSN
+보장.	보장/NNG + ./SF
+
+# 20   5.0
+
+교수님	교수/NNG + 님/XSN
+만만하게	만만/XR + 하/XSA + 게/EC
+보는	보/VV + 는/ETM
+사람들	사람/NNG + 들/XSN
+있는데,	있/VV + 는데/EC + ,/SP
+엄격한	엄격/XR + 하/XSA + ㄴ/ETM
+분에	분/NNB + 에/JKB
+가깝다.	가깝/VA + 다/EF + ./SF
+
+<article  13 >
+# 0   2.0
+
+할말이없다.	하/VV + ㄹ/ETM + 말이/NNG + 없/VA + 다/EF + ./SF
+
+# 1   2.0
+
+수업자세괜찮ㅇ아요.	수업/NNG + 자세/NNG + 괜찮/VA + ㅇ/VV + 아/VX + 요/EF + ./SF
+
+# 2   2.0
+
+근데	근데/MAJ
+무결석,	무/XPN + 결석/NNG + ,/SP
+앞자리앉았고,	앞자리/NNG + 앉/VV + 았/EP + 고/EC + ,/SP
+과제	과제/NNG
+다	다/MAG
+제출했고,	제출/NNG + 하/XSV + 였/EP + 고/EC + ,/SP
+기말시험	기말/NNG + 시험/NNG
+15등정도,	15/SN + 등/NNB + 정도/NNG + ,/SP
+팀플도	팀플/NNG + 도/JX
+좀	좀/MAG
+높은데	높/VA + 은데/EC
+씨쁠나왔네?	씨쁘/VA + ㄹ/EC + 나/VV + 아/EC + 오/VV + 았/EP + 네/EF + ?/SF
+
+# 3   2.0
+
+첫수업때	첫/MM + 수업/NNG + 때/NNG
+성적이의해도	성적이의/NNG + 하/XSV + 여도/EC
+소용없다고	소용없/VA + 다고/EC
+햇놓고ㅋㅋ모르겠다	햇놓/VV + 고/NNG + ㅋ/MAG + ㅋ모르/VV + 겠/EP + 다/EC
+
+<article  14 >
+# 0   3.0
+
+17-2	17/SN + -/SS + 2/SN
+같은	같/VA + 은/ETM
+경우,	경우/NNG + ,/SP
+중간고사는	중간/NNG + 고사/NNG + 는/JX
+아이디스오더	아이/NNG + 디/NNP + 스오더/NNG
+독후감으로	독후감/NNG + 으로/JKB
+대체.	대체/MAG + ./SF
+
+# 1   3.0
+
+기말고사는	기말고/NNG + 사/NNP + 는/ETM
+시험을	시험/NNG + 을/JKO
+쳤으며,	치/VV + 었/EP + 으며/EC + ,/SP
+과제는	과제/NNG + 는/JX
+피피티	피피티/NNG
+만드는	만들/VV + 는/ETM
+것	것/NNB
+하나와,	하나/NR + 오/VV + 아/EC + ,/SP
+팀플	팀플/NNG
+발표	발표/NNG
+하나	하나/NR
+있습니다.	있/VV + 습니다/EF + ./SF
+
+# 2   3.0
+
+이번	이번/NNG
+학기	학기/NNG
+수업	수업/NNG
+중	중/NNB
+가장	가장/MAG
+고리타분하지	고리타분/XR + 하/XSA + 지/EC
+않고	않/VX + 고/EC
+이론에	이론/NNG + 에/JKB
+그치지	그치/VV + 지/EC
+않는	않/VX + 는/ETM
+느낌의	느낌/NNG + 의/JKG
+수업이었습니다.	수업/NNG + 이/VCP + 었/EP + 습니다/EF + ./SF
+
+# 3   3.0
+
+출석도	출석/NNG + 도/JX
+중요하고	중요/NNG + 하/XSA + 고/EC
+수업태도도	수업/NNG + 태도/NNG + 도/JX
+은근히	은근히/MAG
+보시는	보/VV + 시/EP + 는/ETM
+듯	듯/NNB
+합니다.	하/VV + ㅂ니다/EF + ./SF
+
+# 4   3.0
+
+시험은	시험/NNG + 은/JX
+피피티	피피티/NNG
+달달	달달/MAG
+외우면되고,	외우/VV + 면/EC + 되/XSV + 고/EC + ,/SP
+대충	대충/MAG
+들었는데	들/VV + 었/EP + 는데/EC
+정말	정말/MAG
+수업에서만	수업/NNG + 에서/JKB + 만/JX
+언급하셨던	언급/NNG + 하/XSV + 시/EP + 었/EP + 던/ETM
+개념들이	개념/NNG + 들/XSN + 이/JKS
+등장해	등장/NNG + 하/XSV + 여/EC
+적잖이	적잖이/MAG
+당황했었습니다.	당황/NNG + 하/XSV + 았었/EP + 습니다/EF + ./SF
+
+# 5   3.0
+
+팀플도	팀플/NNG + 도/JX
+은근히	은근히/MAG
+원하시는	원하/VV + 시/EP + 는/ETM
+것들이	것/NNB + 들/XSN + 이/JKS
+많으십니다.	많/VA + 으시/EP + ㅂ니다/EF + ./SF
+
+# 6   3.0
+
+그	그/MM
+부분들을	부분/NNG + 들/XSN + 을/JKO
+고루	고루/MAG
+만족시켜야	만족/NNG + 시키/XSV + 어야/EC
+좋아하십니다.	좋아하/VV + 시/EP + ㅂ니다/EF + ./SF
+
+# 7   3.0
+
+그리고	그리고/MAJ
+팀플	팀/NNG + 플/VV
+자료	자료/NNG
+업로드	업로/NNP + 드/NNG
+시간	시간/NNG
+안지키는	안/MAG + 지/NNP + 키/VV + 는/ETM
+건	것/NNB + ㄴ/JX
+불쾌해	불쾌/XR + 하/XSA + 여/EC
+하십니다.	하/VX + 시/EP + ㅂ니다/EF + ./SF
+
+# 8   3.0
+
+시험은	시험/NNG + 은/JX
+솔직히	솔직히/MAG
+공부	공부/NNG
+많이	많이/MAG
+못해서	못/MAG + 하/XSV + 여서/EC
+아예	아예/MAG
+못쓴	못쓰/VV + ㄴ/ETM
+것도	것/NNB + 도/JX
+있는데	있/VV + 는데/EC
+다들	다/MAG + 들/XSN
+답안지	답안지/NNG
+한장씩	한/MM + 장/NNB + 씩/XSN
+더	더/MAG
+받아	받/VV + 아/EC
+쓰길래	쓰/VV + 길래/EC
+나만	나/NP + 만/JX
+못봤나보다	못/MAG + 보/VX + 았/EP + 나/NNG + 보다/JKB
+해서	하/VV + 여서/EC
+그냥	그냥/MAG
+한장	한/MM + 장/NNB
+겨우	겨우/MAG
+꽉채워	꽉/NNP + 채우/VV + 어/EC
+냈는데	내/VX + 었/EP + 는데/EC
+셤	셤/SW
+성적보니	성적보니/NNG
+40명	40/SN + 명/NNB
+중에	중/NNB + 에/JKB
+10등	10/SN + 등/NNB
+정도	정도/NNG
+함..	하/VX + ㅁ/ETN + ./SF + ./SE
+
+# 9   3.0
+
+다들	다/NNG + 들/XSN
+뭘	뭐/NP + ㄹ/JKO
+쓴건지	쓴/NNG + 건지/EC
+좀	좀/MAG
+의아했음..	의/NNG + 아/XR + 하/XSA + 였/EP + 음/ETN + ./SF + ./SE
+
+# 10   3.0
+
+딱	딱/MAG
+필요한것만	필요/NNG + 하/XSA + ㄴ/ETM + 것/NNB + 만/JX
+간단히	간단히/MAG
+들어가면	들어가/VV + 면/EC
+되는	되/VV + 는/ETM
+듯	듯/NNB
+보입니다.	보이/VV + ㅂ니다/EF + ./SF
+
+# 11   3.0
+
+팀플(한팀은	팀플/NNG + (/SS + 한팀/NNG + 은/JX
+무조건	무조건/MAG
+공동체.	공동체/NNG + ./SF
+
+# 12   3.0
+
+같은	같/VA + 은/ETM
+점수	점수/NNG
+주심.	주심/NNG + ./SF
+
+# 13   3.0
+
+예외ㄴㄴ)	예외/NNG + ㄴㄴ/NNG + )/SS
+열심히	열심히/MAG
+하고	하/VV + 고/EC
+셤공부	셤공부/NNG
+열심히하고	열심히/MAG + 하/VA + 고/EC
+출석	출석/NNG
+잘하세요.	잘/MAG + 하/XSV + 시/EP + 어요/EF + ./SF
+
+# 14   3.0
+
+본인은	본인/NNG + 은/JX
+무결석,	무/XPN + 결석/NNG + ,/SP
+팀플	팀플/NNG
+등수	등수/NNG
+중간	중간/NNG
+정도,	정도/NNG + ,/SP
+시험	시험/NNG
+10등	10/SN + 등/NNB
+정도,	정도/NNG + ,/SP
+그	그/MM
+외	외/NNB
+점수	점수/NNG
+확인불가.	확인불가/NNG + ./SF
+
+# 15   3.0
+
+A받음.	A/SL + 받/NNG + 음/ETN + ./SF
+
+<article  15 >
+# 0   5.0
+
+조별	조/NNG + 별/XSN
+발표	발표/NNG
+한번	한/MM + 번/NNB
+있습니다.	있/VV + 습니다/EF + ./SF
+
+# 1   5.0
+
+조항민	조항/NNP + 민/NNG
+교수님이	교수/NNG + 님/XSN + 이/JKS
+전적으로	전적/NNG + 으로/JKB
+수업을	수업/NNG + 을/JKO
+해주십니다.	하/VV + 여/EC + 주/VX + 시/EP + ㅂ니다/EF + ./SF
+
+# 2   5.0
+
+현대	현/NNP + 대/NNG
+사회에	사회/NNG + 에/JKB
+일어날	일어나/VV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+다양한	다양/NNG + 하/XSA + ㄴ/ETM
+과학기술의	과학/NNG + 기술/NNG + 의/JKG
+문제점들을	문제점/NNG + 들/XSN + 을/JKO
+파악하고	파악/NNG + 하/XSV + 고/EC
+고민해	고민/NNG + 하/XSV + 여/EC
+볼	보/VX + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+수업입니다.	수업/NNG + 이/VCP + ㅂ니다/EF + ./SF
+
+# 3   5.0
+
+교수님께서	교수/NNG + 님/XSN + 께서/JKS
+다양한	다양/NNG + 하/XSA + ㄴ/ETM
+미디어	미디어/NNG
+자료들을	자료/NNG + 들/XSN + 을/JKO
+활용하여	활용/NNG + 하/XSV + 여/EC
+수업해주셔서,	수업/NNG + 하/XSV + 여/EC + 주/VX + 시/EP + 어서/EC + ,/SP
+수업이	수업/NNG + 이/JKS
+재미있습니다.	재미있/VA + 습니다/EF + ./SF
+
+# 4   5.0
+
+4차	4/SN + 차/NNB
+산업혁명이	산업/NNG + 혁명/NNG + 이/JKS
+관심이	관심/NNG + 이/JKS
+있는	있/VV + 는/ETM
+분들이	분/NNB + 들/XSN + 이/JKS
+들으면	듣/VV + 으면/EC
+재미있게	재미있/VA + 게/EC
+들을	듣/VV + 을/ETM
+수	수/NNB
+있을거라고	있/VV + 을/ETM + 거/NNB + 이/VCP + 라고/EC
+생각합니다.	생각/NNG + 하/XSV + ㅂ니다/EF + ./SF
+
+<article  16 >
+# 0   3.0
+
+조항민교수님의	조항민교수/NNG + 님/XSN + 의/JKG
+수업입니다.	수업/NNG + 이/VCP + ㅂ니다/EF + ./SF
+
+# 1   3.0
+
+송교수님은	송교수/NNG + 님/XSN + 은/JX
+두번	두/MM + 번/NNB
+들어오셨네요.	들어오/VV + 시/EP + 었/EP + 네요/EF + ./SF
+
+# 2   3.0
+
+수업과	수업/NNG + 과/JC
+시험	시험/NNG
+팀플까지	팀플/NNG + 까지/JX
+열심히	열심히/MAG
+했으나	하/VV + 였/EP + 으나/EC
+팀플에서	팀플/NNG + 에서/JKB
+낮은	낮/VA + 은/ETM
+점수를	점수/NNG + 를/JKO
+받아	받/VV + 아/EC
+인풋대비	인풋대비/NNG
+성적이	성적/NNG + 이/JKS
+가장	가장/MAG
+안좋았던	안/MAG + 좋/VA + 았/EP + 던/ETM
+과목이라	과목/NNG + 이/VCP + 라/EC
+조금	조금/MAG
+어리둥절했습니다.	어리둥절/XR + 하/XSA + 였/EP + 습니다/EF + ./SF
+
+# 3   3.0
+
+수업	수업/NNG
+내용도	내용/NNG + 도/JX
+크게	크/VA + 게/EC
+얻어가는	얻/VV + 어/EC + 가/VX + 는/ETM
+것은	것/NNB + 은/JX
+없습니다.	없/VA + 습니다/EF + ./SF
+
+<article  17 >
+# 0   5.0
+
+교수명에	교수명/NNG + 에/JKB
+송해룡	송해룡/NNP
+교수님이라고	교수/NNG + 님/XSN + 이/VCP + 라고/EC
+적혀있지만	적히/VV + 어/EC + 있/VX + 지만/EC
+사실상	사실/NNG + 상/XSN
+조항민	조/NNP + 항민/NNG
+교수님	교수/NNG + 님/XSN
+수업이에요	수업/NNG + 이/VCP + 에요/EC
+
+# 1   5.0
+
+조항민	조항/NNP + 민/NNG
+교수님	교수/NNG + 님/XSN
+완전	완전/NNG
+좋아요	좋/VA + 아요/EC
+
+# 2   5.0
+
+재밌으시고	재미있/VA + 으/EC + 시/EP + 고/EC
+학생들	학생/NNG + 들/XSN
+의견도	의견/NNG + 도/JX
+잘	잘/MAG
+들어주시고	들어주/VV + 시/EP + 고/EC
+관심도	관심/NNG + 도/JX
+많이	많이/MAG
+가져주시고..	가지/VV + 어/EC + 주/VX + 시/EP + 고/EF + ../SE
+
+# 3   5.0
+
+제가	제/NP + 가/JKS
+이번	이번/NNG
+학기	학기/NNG
+들은	듣/VV + 은/ETM
+수업	수업/NNG
+중	중/NNB
+가장	가장/MAG
+세련되고	세련/NNG + 되/XSA + 고/EC
+즐거운	즐겁/VA + ㄴ/ETM
+수업이었음	수업/NNG + 이/VCP + 었/EP + 음/ETN
+
+# 4   5.0
+
+팀플	팀플/NNG
+한	한/MM
+번	번/NNB
+독후감	독후감/NNG
+과제	과제/NNG
+한	한/MM
+번	번/NNB
+기말고사	기말고사/NNG
+이렇게	이렇/VA + 게/EC
+보는데	보/VV + 는데/EC
+팀플만	팀플/NNG + 만/JX
+좀	좀/MAG
+신경쓰면	신경/NNG + 쓰/VV + 면/EC
+되고	되/VV + 고/EC
+기말은	기말/NNG + 은/JX
+어렵지는	어렵/VA + 지/EC + 는/JX
+않았음	않/VX + 았/EP + 음/ETN
+
+# 5   5.0
+
+그리고	그리고/MAJ
+가산점	가산점/NNG
+받을	받/VV + 을/ETM
+포인트(세미나	포인트/NNG + (/SS + 세/NNP + 미나/NNG
+참석,	참석/NNG + ,/SP
+팀	팀/NNG
+발표	발표/NNG
+때	때/NNG
+질문)가	질문/NNG + )/SS + 가/JKS
+많아서	많/VA + 아서/EC
+성적	성/NNG + 적/XSN
+걱정되면	걱정/NNG + 되/XSV + 면/EC
+그런데서도	그/VA + 런데/MAJ + 서/JKB + 도/JX
+점수	점수/NNG
+얻을	얻/VV + 을/ETM
+수	수/NNB
+있으니	있/VV + 으니/EC
+좋음!	좋/VA + 음/ETN + !/SF
+
+# 6   5.0
+
+송해룡	송해룡/NNP
+교수님이	교수/NNG + 님/XSN + 이/JKS
+2번	2/SN + 번/NNB
+정도	정도/NNG
+오셔서	오/VV + 시/EP + 어서/EC
+수업하시긴	수업/NNG + 하/XSV + 시/EP + 기/ETN + ㄴ/JX
+
+# 7   5.0
+
+하는데	하/VX + 는데/EC
+그	그/MM
+때	때/NNG
+약간의	약간/NNG + 의/JKG
+지루함만	지루/XR + 하/XSA + ㅁ/ETN + 만/JX
+
+<article  18 >
+# 0   4.0
+
+조항민	조항/NNP + 민/NNG
+교수님이	교수/NNG + 님/XSN + 이/JKS
+2번	2/SN + 번/NNB
+뺴고	뺴/VA + 고/EC
+모두	모두/MAG
+진행하셨으며,	진행/NNG + 하/XSV + 시/EP + 었/EP + 으며/EC + ,/SP
+교수님에	교수/NNG + 님/XSN + 에/JKB
+대한	대하/VV + ㄴ/ETM
+인상이	인상/NNG + 이/JKS
+굉장히	굉장히/MAG
+좋았다.	좋/VA + 았/EP + 다/EF + ./SF
+
+# 1   4.0
+
+특이한	특이/NNG + 하/XSA + ㄴ/ETM
+병맛	병/NNG + 맛/NNG
+유머코드도	유머/NNG + 코/NNG + 드/NNP + 도/JX
+내스타일이었고,	내스타일/NNG + 이/VCP + 었/EP + 고/EC + ,/SP
+굉장히	굉장히/MAG
+성실하시고	성실/NNG + 하/XSV + 시/EP + 고/EC
+트랜디하시며	트/XR + 랜디/NNG + 하/XSV + 시/EP + 며/EC
+수업자체도	수업/NNG + 자체/NNG + 도/JX
+4차산업혁명과	4/SN + 차/NNB + 산업/NNG + 혁명/NNG + 과/JC
+미래산업에	미래/NNG + 산업/NNG + 에/JKB
+대해	대하/VV + 여/EC
+교양수준으로	교양/NNG + 수준/NNG + 으로/JKB
+유익하게	유익/NNG + 하/XSA + 게/EC
+들을	듣/VV + 을/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+수업이었다.	수업/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+
+# 2   4.0
+
+중간고사는	중간/NNG + 고사/NNG + 는/JX
+과제(독후감)로	과제/NNG + (/SS + 독후감/NNG + )/SS + 로/JKB
+대체되었고,	대체/NNG + 되/XSV + 었/EP + 고/EC + ,/SP
+기말고사도	기말고/NNG + 사/NNP + 아도/EC
+많은	많/VA + 은/ETM
+학업량을	학업량/NNG + 을/JKO
+요구하지는	요구/NNG + 하/XSV + 지/EC + 는/JX
+않는다.	않/VX + 는다/EF + ./SF
+
+# 3   4.0
+
+중간고사기간	중간/NNG + 고사/NNG + 기간/NNG
+이후부터	이후/NNG + 부터/JX
+쭉	쭉/MAG
+진행되는	진행/NNG + 되/XSV + 는/ETM
+발표수업은	발표/NNG + 수업/NNG + 은/JX
+각	각/MM
+조가	조/NNG + 가/JKS
+오랜기간	오랜/MM + 기간/NNG
+준비한	준비/NNG + 하/XSV + ㄴ/ETM
+발표주제를	발표/NNG + 주제/NNG + 를/JKO
+가지고	가지/VV + 고/EC
+발표를	발표/NNG + 를/JKO
+하면	하/VV + 면/EC
+그에	그/NP + 에/JKB
+대한	대하/VV + ㄴ/ETM
+Q&A시간이	Q/SL + &/SW + A/SL + 시간/NNG + 이/JKS
+이어져	이어지/VV + 어/EC
+세미나같은	세미나/NNG + 같/VA + 은/ETM
+형식이	형식/NNG + 이/JKC
+되는데,	되/VV + 는데/EC + ,/SP
+이	이/MM
+때	때/NNG
+추가점수를	추가/NNG + 점수/NNG + 를/JKO
+받기	받/VV + 기/ETN
+
+# 4   4.0
+
+위해	위하/VV + 여/EC
+질문도	질문/NNG + 도/JX
+많이	많이/MAG
+할	하/VV + ㄹ/ETM
+것을	것/NNB + 을/JKO
+추천한다.	추천/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+<article  19 >
+# 0   5.0
+
+내용도	내용/NNG + 도/JX
+어렵지	어렵/VA + 지/EC
+않은	않/VX + 은/ETM
+교양수준이고,	교양/NNG + 수준/NNG + 이/VCP + 고/EC + ,/SP
+중간고사기간	중간/NNG + 고사/NNG + 기간/NNG
+이후	이후/NNG
+발표로	발표/NNG + 로/JKB
+진행되어서	진행/NNG + 되/XSV + 어서/EC
+공부할	공부/NNG + 하/XSV + ㄹ/ETM
+내용도	내용/NNG + 도/JX
+많지는	많/VA + 지/EC + 는/JX
+않았음.	않/VX + 았/EP + 음/ETN + ./SF
+
+# 1   5.0
+
+발표	발표/NNG
+때	때/NNG
+질문하면	질문/NNG + 하/XSV + 면/EC
+가산점주고,	가산점주/NNG + 이/VCP + 고/EC + ,/SP
+시험은	시험/NNG + 은/JX
+서술형으로	서술/NNG + 형/XSN + 으로/JKB
+나옴.	나오/VV + ㅁ/ETN + ./SF
+
+# 2   5.0
+
+발표도	발표/NNG + 도/JX
+꽤	꽤/MAG
+유익했던	유익/NNG + 하/XSA + 였/EP + 던/ETM
+시간.	시간/NNG + ./SF
+
+<article  20 >
+# 0   4.0
+
+2번정도	2/SN + 번/NNB + 정/NNG + 도/JX
+송해룡교수님이	송해룡/NNP + 교수/NNG + 님/XSN + 이/JKS
+수업하시고	수업/NNG + 하/XSV + 시/EP + 고/EC
+나머지는	나머지/NNG + 는/JX
+조항민교수님이	조항민교수/NNG + 님/XSN + 이/JKS
+진행하셨어요.	진행/NNG + 하/XSV + 시/EP + 었/EP + 어요/EF + ./SF
+
+# 1   4.0
+
+그렇다고	그렇/VA + 다고/EC
+송해룡교수님	송해룡/NNP + 교수/NNG + 님/XSN
+수업	수업/NNG
+때	때/NNG
+빠지시면	빠지/VV + 시/EP + 면/EC
+안되는게,	안/MAG + 되/XSV + 는/EC + 것/NNB + 이/JKC + ,/SP
+두번째	두/MM + 번/NNB + 째/XSN
+강의	강의/NNG
+시간에는	시간/NNG + 에/JKB + 는/JX
+출석체크하셔서	출석/NNG + 체크/NNG + 하/XSV + 시/EP + 어서/EC
+되도록이면	되도록/MAG + 이/VCP + 면/EC
+가시는게	가/VV + 시/EP + 는/EC + 것/NNB + 이/JKS
+좋아요.	좋/VA + 아요/EF + ./SF
+
+# 2   4.0
+
+앞자리에	앞자리/NNG + 에/JKB
+자주	자주/MAG
+앉거나	앉/VV + 거나/EC
+교수님이	교수/NNG + 님/XSN + 이/JKS
+참석하면	참석/NNG + 하/XSV + 면/EC
+가산점	가산점/NNG
+주신다는	주/VA + 시/EP + ㄴ다는/ETM
+세미나	세미나/NNG
+가시면	가/VV + 시/EP + 면/EC
+교수님이랑	교수/NNG + 님/XSN + 이/JKB + 랑/JC
+금방	금방/MAG
+안면	안면/NNG
+틀	틀/NNG
+수(?)	수/NNG + (/SS + ?/SF + )/SS
+
+# 3   4.0
+
+있어요.	있/VV + 어요/EF + ./SF
+
+# 4   4.0
+
+개인레포트(독후감)	개인레포트/NNG + (/SS + 독후감/NNG + )/SS
+1번,	1/SN + 번/NNB + ,/SP
+팀플	팀플/NNG
+1번(30%),	1/SN + 번/NNB + (/SS + 30/SN + %/SW + )/SS + ,/SP
+기말	기말/NNG
+1번(40%)입니당.	1/SN + 번/NNB + (/SS + 40/SN + %/SW + )/SS + 입/NNG + 니당/EF + ./SF
+
+# 5   4.0
+
+7주~8주는	7/SN + 주/NNB + ~/SO + 8/SN + 주/NNB + 는/JX
+교수님께서	교수/NNG + 님/XSN + 께서/JKS
+수업하시고	수업/NNG + 하/XSV + 시/EP + 고/EC
+나머지는	나머지/NNG + 는/JX
+팀플	팀플/NNG
+40분	40/SN + 분/NNB
+발표	발표/NNG
++	+/SW
+1시간	1/SN + 시간/NNG
+질의응답으로	질의응답/NNG + 으로/JKB
+진행돼요.	진행/NNG + 되/XSV + 어요/EF + ./SF
+
+# 6   4.0
+
+팀플	팀플/NNG
+비중도	비중/NNG + 도/JX
+은근	은근/NNG
+커서	크/VA + 어서/EC
+팀플에	팀플/NNG + 에/JKB
+좀	좀/MAG
+투자하시고	투자/NNG + 하/XSV + 시/EP + 고/EC
+기말	기말/NNG
+때	때/NNG
+바짝	바짝/MAG
+하시면	하/VV + 시/EP + 면/EC
+될	되/VV + ㄹ/ETM
+것	것/NNB
+같아요.	같/VA + 아요/EF + ./SF
+
+# 7   4.0
+
+팀플	팀플/NNG
+점수는	점수/NNG + 는/JX
+교수님평가+학우평가	교수/NNG + 님/XSN + 평가/NNG + +/SW + 학우평가/NNG
+이렇게	이렇/VA + 게/EC
+결정돼요.	결정/NNG + 되/XSV + 어요/EF + ./SF
+
+# 8   4.0
+
+Qna시간	Qna/SL + 시간/NNG
+때	때/NNG
+질문하면	질문/NNG + 하/XSV + 면/EC
+가산점	가산점/NNG
+주신대서	주/NNG + 시/EP + ㄴ/EC + 대서/NNG
+학우분들이	학우분/NNG + 들/XSN + 이/JKS
+qna	qna/SL
+열심히	열심히/MAG
+하셨던	하/VV + 시/EP + 었/EP + 던/ETM
+것	것/NNB
+같아요.	같/VA + 아요/EF + ./SF
+
+# 9   4.0
+
+교스님도	교/NNP + 스/NNG + 님/XSN + 도/JX
+젠틀하시고	젠틀/NNG + 하/XSV + 시/EP + 고/EC
+수업	수업/NNG
+내용도	내용/NNG + 도/JX
+어렵지	어렵/VA + 지/EC
+않고	않/VX + 고/EC
+(마치	(/SS + 마치/MAG
+교양처럼..)	교양/NNG + 처럼/JKB + ../SE + )/SS
+팀플	팀플/NNG
+발표	발표/NNG
+때도	때/NNG + 도/JX
+그냥	그냥/MAG
+재밌게	재밌/VA + 게/EC
+듣고	듣/VV + 고/EC
+질의응답	질의응답/NNG
+좀	좀/MAG
+열심히	열심히/MAG
+하면	하/VV + 면/EC
+됐어서	되/VV + 었/EP + 어서/EC
+괜찮았어요~~	괜찮/VA + 았/EP + 어요/EC + ~~/SO
+
+<article  21 >
+# 0   4.0
+
+들을만	듣/VV + 을/ETM + 만/JX
+하다.	하/VX + 다/EF + ./SF
+
+# 1   4.0
+
+개인적으로는	개인/NNG + 적/XSN + 으로/JKB + 는/JX
+기말고사를	기말/NNG + 고사/NNG + 를/JKO
+망했고	망하/VV + 였/EP + 고/EC
+출석을	출석/NNG + 을/JKO
+잘	잘/MAG
+안해서	안/MAG + 하/VV + 여서/EC
+비쁠이	비/VA + 쁠/NNG + 이/NNB
+나왔으나	나오/VV + 았/EP + 으나/EC
+시험난이도나	시험난이/NNG + 도/NNP + 나/JC
+수업내용의	수업/NNG + 내용/NNG + 의/JKG
+난이도,	난/NNG + 이/NNP + 도/JX + ,/SP
+그리고	그리고/MAJ
+발표의	발표/NNG + 의/JKG
+흥미를	흥미/NNG + 를/JKO
+생각하면	생각/NNG + 하/XSV + 면/EC
+괜찮은	괜찮/VA + 은/ETM
+수업임	수업/NNG + 이/VCP + ㅁ/ETN
+
+<article  22 >
+# 0   4.0
+
+송해룡	송해룡/NNP
+교수님은	교수/NNG + 님/XSN + 은/JX
+안들어오시고	안들/VV + 어/EC + 오/VV + 시/EP + 고/EC
+조항민	조항/NNP + 민/NNG
+교수님이	교수/NNG + 님/XSN + 이/JKS
+대신	대신/NNG
+들어오심.	들어오/VV + 심/EF + ./SF
+
+# 1   4.0
+
+수업	수업/NNG
+내용	내용/NNG
+이해하기	이해/NNG + 하/XSV + 기/ETN
+
+# 2   4.0
+
+쉽고	쉽/VA + 고/EC
+발표	발표/NNG
+준비가	준비/NNG + 가/JKS
+빡세긴	빡세길/VA + ㄴ/ETM
+한데	하/VX + ㄴ데/EC
+한	한/MM
+번	번/NNB
+이니	이/VCP + 니/EC
+할만했음.	하/VV + ㄹ/ETM + 만/NNB + 하/XSA + 였/EP + 음/ETN + ./SF
+
+# 3   4.0
+
+출결	출결/NNG
+매번	매번/MAG
+부르시진	부/VV + 르/NNG + 시/VV + 진/NNG
+않고	않/VX + 고/EC
+어쩌다	어쩌다/MAG
+부르시는데	부르/VV + 시/EP + 는데/EC
+어쩌다	어쩌다/MAG
+부를	부르/VV + ㄹ/ETM
+때	때/NNG
+안오면	안오/VV + 면/EC
+감점	감점/NNG
+많이	많이/MAG
+한다고	하/VV + ㄴ다고/EC
+하셨음.(나는	하/VV + 시/EP + 었/EP + 음/EF + ./SF + (/SS + 나/NP + 는/JX
+
+# 4   4.0
+
+참고로	참고/NNG + 로/JKB
+두번	두/MM + 번/NNB
+걸림)	걸리/VV + ㅁ/ETN + )/SS
+
+# 5   4.0
+
+쓴이는	쓴이/NNG + 는/JX
+출결	출결/NNG
+만회하려고	만회/NNG + 하/XSV + 려고/EC
+세미나	세미나/NNG
+있는	있/VX + 는/ETM
+것	것/NNB
+마다	마다/JX
+다	다/MAG
+참석했음.	참석/NNG + 하/XSV + 였/EP + 음/ETN + ./SF
+
+# 6   4.0
+
+시험도	시험/NNG + 도/JX
+적당히	적당히/MAG
+봤는데	보/VV + 았/EP + 는데/EC
+대신	대신/NNG
+매	매/MM
+수업마다	수업/NNG + 마다/JX
+손들고	손들/VV + 고/EC
+질문했음.	질문/NNG + 하/XSV + 였/EP + 음/ETN + ./SF
+
+# 7   4.0
+
+그랬더니	그러/VV + 었/EP + 더니/EC
+에이	에이/IC
+나옴.	나오/VV + ㅁ/ETN + ./SF
+
+<article  23 >
+# 0   4.0
+
+송해룡	송해룡/NNP
+교수님이	교수/NNG + 님/XSN + 이/JKS
+아니라	아니/VCN + 라/EC
+조항민	조항/NNP + 민/NNG
+교수님이	교수/NNG + 님/XSN + 이/JKS
+수업하심	수업/NNG + 하심/NNG
+내용도	내용/NNG + 도/JX
+알차고	알차/VV + 고/EC
+어렵지	어렵/VA + 지/EC
+않음	않/VX + 음/ETN
+
+# 1   4.0
+
+시험도	시험/NNG + 도/JX
+1번	1/SN + 번/NNB
+봐서	보/VV + 아서/EC
+좋음	좋/VA + 음/ETN
+
+<article  24 >
+# 0   5.0
+
+꿀강.	꿀강/NNG + ./SF
+
+# 1   5.0
+
+내가	내/NP + 가/JKS
+들은	듣/VV + 은/ETM
+학기에는	학기/NNG + 에/JKB + 는/JX
+조항민	조항/NNP + 민/NNG
+교수님만	교수/NNG + 님/XSN + 만/JX
+들어오셔서	들어오/VV + 시/EP + 어서/EC
+강의	강의/NNG
+하셨음.	하/VV + 시/EP + 었/EP + 음/ETN + ./SF
+
+# 2   5.0
+
+강의	강/NNG + 의/JKG
+내용이	내용/NNG + 이/JKS
+현재	현재/MAG
+화자되고	화자/NNG + 되/XSV + 고/EC
+유행하는	유행/NNG + 하/XSV + 는/ETM
+주제가	주제/NNG + 가/JKS
+많으며,	많/VA + 으며/EC + ,/SP
+시각자료	시각/NNG + 자료/NNG
+영상자료가	영상/NNG + 자료/NNG + 가/JKS
+풍부함.	풍부/XR + 하/XSA + ㅁ/ETN + ./SF
+
+# 3   5.0
+
+교재는	교재/NNG + 는/JX
+따로	따로/MAG
+없고	없/VA + 고/EC
+교수님이	교수/NNG + 님/XSN + 이/JKS
+준비하신	준비/NNG + 하/XSV + 시/EP + ㄴ/ETM
+PPT만	PPT/SL + 만/JX
+출력해서	출력/NNG + 하/XSV + 여서/EC
+가져가면됨.	가져가/VV + 면/EC + 되/XSV + ㅁ/ETN + ./SF
+
+# 4   5.0
+
+1~2주당	1/SN + ~/SO + 2/SN + 주/NNG + 당/XSN
+한번씩	한/MM + 번/NNB + 씩/XSN
+세미나가	세미나/NNG + 가/JKS
+있는데,	있/VV + 는데/EC + ,/SP
+이때	이때/NNG
+참석해서	참석/NNG + 하/XSV + 여서/EC
+교수님	교수/NNG + 님/XSN
+눈도장	눈도장/NNG
+잘찍어	잘찍/VV + 어/EC
+두면	두/VX + 면/EC
+학점	학점/NNG
+잘받을수	잘/MAG + 받/VV + 을/ETM + 수/NNB
+있음.	있/VV + 음/ETN + ./SF
+
+# 5   5.0
+
+팀발표는	팀발표/NNG + 는/JX
+한조당	한조당/NNP
+6~7명정도로	6/SN + ~/SO + 7/SN + 명/NNB + 정도/NNG + 로/JKB
+구성됨.	구성/NNG + 되/XSV + ㅁ/ETN + ./SF
+
+# 6   5.0
+
+발표자는	발표자/NNG + 는/JX
+2~3명	2/SN + ~/SO + 3/SN + 명/NNB
+정도지만,	정도/NNG + 이/VCP + 지만/EC + ,/SP
+큐앤에이	큐앤에이/NNP
+시간때는	시간/NNG + 때/NNG + 는/JX
+조원	조원/NNG
+모두가	모두/NNG + 가/JKS
+나가서	나가/VV + 아서/EC
+한마디씩은	한마디/NNG + 씩/XSN + 은/JX
+꼭	꼭/MAG
+해야함.	하/VV + 여/EC + 야/NNG + 하/VX + ㅁ/ETN + ./SF
+
+# 7   5.0
+
+발표때	발표/NNG + 때/NNG
+다양한	다양/NNG + 하/XSA + ㄴ/ETM
+방식을	방식/NNG + 을/JKO
+통해	통하/VV + 여/EC
+발표자료	발표/NNG + 자료/NNG
+작성하면	작성/NNG + 하/XSV + 면/EC
+개굳.	개/NNG + 굳/EF + ./SF
+
+# 8   5.0
+
+시험은	시험/NNG + 은/JX
+기말고사	기말고사/NNG
+한번치는데,	한번/NNG + 치/VV + 는데/EC + ,/SP
+아무리	아무리/MAG
+머리가	머리/NNG + 가/JKS
+나빠도	나쁘/VA + 아도/EC
+평소에	평소/NNG + 에/JKB
+강의	강의/NNG
+내용	내용/NNG
+들은거랑	들/VV + 은/EC + 거랑/NNG
+시험	시험/NNG
+2일전	2/SN + 일/NNB + 전/NNG
+정도	정도/NNG
+달달	달달/MAG
+외워두면	외우/VV + 어/EC + 두/VX + 면/EC
+무난하게	무난/XR + 하/XSA + 게/EC
+잘	잘/MAG
+볼수	보/VV + ㄹ/ETM + 수/NNB
+있음.	있/VV + 음/ETN + ./SF
+
+# 9   5.0
+
+짜잘짜잘한	짜/NNG + 잘/XR + 짜/MAG + 잘/XR + 하/XSA + ㄴ/ETM
+과제는	과제/NNG + 는/JX
+많은편이나,	많/VA + 은/ETM + 편/NNG + 이나/JC + ,/SP
+보통	보통/NNG
+A4용지	A/SL + 4/SN + 용지/NNG
+한장정도의	한/MM + 장/NNG + 정도/NNG + 의/JKG
+분량만	분량/NNG + 만/JX
+작성하므로,	작성/NNG + 하/XSV + 므로/EC + ,/SP
+일주일에	일주일/NNG + 에/JKB
+하루	하루/NNG
+2시간	2/SN + 시간/NNG
+정도만	정도/NNG + 만/JX
+투자하면됨.	투자/NNG + 하/XSA + 면/EC + 되/VV + ㅁ/ETN + ./SF
+
+# 10   5.0
+
+조항민	조항/NNP + 민/NNG
+교수님	교수/NNG + 님/XSN
+레알	레알/NNP
+학교와서	학교/NNG + 오/VV + 아서/EC
+수강한	수강/NNG + 하/XSV + ㄴ/ETM
+교수님들중	교수/NNG + 님/XSN + 들/XSN + 중/NNB
+가장	가장/MAG
+트랜디하시며	트랜디/NNG + 하/XSV + 시/EP + 며/EC
+강의내용이	강의/NNG + 내용/NNG + 이/JKS
+세련됬음.	세련/NNG + 됬/SN + 음/NNG + ./SF
+
+# 11   5.0
+
+개꿀잼임.	개/NNP + 꿀잼임/NNG + ./SF
+
+# 12   5.0
+
+학점도	학점/NNG + 도/JX
+잘	잘/MAG
+주시고	주/VV + 시/EP + 고/EC
+꿀강꿀강.	꿀강꿀/NNG + 강/EF + ./SF
+
+<article  25 >
+# 0   4.0
+
+시험	시험/NNG
+한	한/MM
+번	번/NNB
+뿐이고	뿐/NNB + 이/VCP + 고/EC
+공부할	공부/NNG + 하/XSV + ㄹ/ETM
+양이	양/NNG + 이/JKS
+많지	많/VA + 지/EC
+않아서	않/VX + 아서/EC
+좋았음.	좋/VA + 았/EP + 음/ETN + ./SF
+
+<article  26 >
+# 0   4.0
+
+송해룡교수님과	송해룡/NNP + 교수/NNG + 님/XSN + 과/JC
+조항민교수님	조항민/NNG + 교수/NNG + 님/XSN
+같이	같이/MAG
+수업하시는데	수업/NNG + 하/XSV + 시/EP + 는데/EC
+거의	거의/MAG
+조항민	조항민/NNG
+교수님이	교수/NNG + 님/XSN + 이/JKS
+맡아서	맡/VV + 아서/EC
+하셨어요.	하/VV + 시/EP + 었/EP + 어요/EF + ./SF
+
+# 1   4.0
+
+조항민	조항/NNP + 민/NNG
+교수님은	교수/NNG + 님/XSN + 은/JX
+수업	수업/NNG
+준비도	준비/NNG + 도/JX
+철저히	철저히/MAG
+해오시고	하/VV + 여/EC + 오/VX + 시/EP + 고/EC
+학생들과	학생/NNG + 들/XSN + 과/JKB
+소통도	소통/NNG + 도/JX
+잘해주셔서	잘/MAG + 하/XSV + 여/EC + 주/VX + 시/EP + 어서/EC
+정말	정말/MAG
+좋았어요.	좋/VA + 았/EP + 어요/EF + ./SF
+
+# 2   4.0
+
+시험은	시험/NNG + 은/JX
+기말고사만	기말고/NNG + 사/EC + 만/JX
+봤고	보/VV + 았/EP + 고/EC
+약술형이에요.	약술/NNG + 형/XSN + 이/VCP + 에요/EF + ./SF
+
+# 3   4.0
+
+평소	평소/NNG
+수업이	수업/NNG + 이/JKS
+빡세지는	빡세/VA + 지/EC + 는/JX
+않는데	않/VX + 는데/EC
+피피티에	피피티/NNG + 에/JKB
+없는	없/VA + 는/ETM
+부분도	부분/NNG + 도/JX
+나와서	나오/VV + 아서/EC
+매	매/MM
+수업시간마다	수업/NNG + 시간/NNG + 마다/JX
+집중하는	집중/NNG + 하/XSV + 는/ETM
+것이	것/NNB + 이/JKS
+중요해요.	중요/NNG + 하/XSA + 아요/EF + ./SF
+
+# 4   4.0
+
+발표랑	발표랑/NNG
+Q	Q/SL
+and	and/SL
+A에	A/SL + 에/JKB
+열심히	열심히/MAG
+참여하시면	참여/NNG + 하/XSV + 시면/EC
+높은	높/VA + 은/ETM
+점수를	점수/NNG + 를/JKO
+받으실	받/VV + 으시/EP + ㄹ/ETM
+수	수/NNB
+있습니다.	있/VV + 습니다/EF + ./SF
+
+<article  27 >
+# 0   3.0
+
+그냥	그냥/MAG
+간달프	간달프/NNG
+수업	수업/NNG
+듣지마....ㅠㅠㅠㅠㅠㅠㅠㅠ	듣/VV + 지/EC + 마/EF + ..../SE + ㅠㅠ/NNG + ㅠㅠㅠ/MAG + ㅠㅠ/NNG + ㅠ/EC
+
+# 1   3.0
+
+교수님	교수/NNG + 님/XSN
+총	총/MM
+세분들어오는데	세분/NNG + 들/VV + 어/EC + 오/VX + 는데/EC
+비교적	비교/NNG + 적/XSN
+젊은	젊/VA + 은/ETM
+교수님	교수/NNG + 님/XSN
+수업은	수업/NNG + 은/JX
+들을만	듣/VV + 을/ETM + 만/JX
+하고,	하/VV + 고/EC + ,/SP
+나머지	나머지/NNG
+두분은	두/MM + 분/NNB + 은/JX
+간달프랑	간달프랑/NNP
+전자전기공학부	전자/NNG + 전기공학부/NNG
+교수님	교수/NNG + 님/XSN
+들어오는데	들어오/VV + 는데/EC
+최악임	최악임/NNG
+시험도	시험/NNG + 도/JX
+교수님	교수/NNG + 님/XSN
+3명	3/SN + 명/NNB
+스타일대로	스타일/NNG + 대로/JX
+다	다/MAG
+제각각으로	제각각/NNG + 으로/JKB
+나옴	나오/VV + ㅁ/ETN
+
+FINISH
