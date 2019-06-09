@@ -1,6 +1,9 @@
+#-*- coding:utf-8 -*-
 import numpy as np
 import pandas as pd
 from collections import defaultdict
+import re
+import operator
 
 ####################################################
 # loading function                                 #
@@ -10,18 +13,28 @@ def loading_data(data_path, eng=True, num=True, punc=False):
     # data example : "title","content"
     # data format : csv, utf-8
     corpus = pd.read_table(data_path, sep=",", encoding="utf-8")
+    ## corpus = pd.read_csv(data_path, encoding = 'utf-8')
     corpus = np.array(corpus)
+    ## np.genfromtxt(data_path, delimiter=',')
     title = []
     contents = []
+    
+   
     for doc in corpus:
-        if type(doc[0]) is not str or type(doc[1]) is not str:
-            continue
+	if type(doc[0]) is not float:
+	 	string = doc[0].encode('utf-8')
+		doc[0] = string
+		string2 = doc[1].encode('utf-8')
+		doc[1] = string2
+	if type(doc[0]) is not str or type(doc[1]) is not str:
+		continue
         if len(doc[0]) > 0 and len(doc[1]) > 0:
             tmptitle = normalize(doc[0], english=eng, number=num, punctuation=punc)
             tmpcontents = normalize(doc[1], english=eng, number=num, punctuation=punc)
             title.append(tmptitle)
             contents.append(tmpcontents)
     return title, contents
+
 
 def make_dict_all_cut(contents, minlength, maxlength, jamo_delete=False):
     dict = defaultdict(lambda: [])
@@ -51,17 +64,17 @@ def make_dict_all_cut(contents, minlength, maxlength, jamo_delete=False):
     words.append(['<S>'])
     words.append(['<E>'])
     words.append(['<UNK>'])
-    # word_to_ix, ix_to_word »ý¼º
+    # word_to_ix, ix_to_word ìƒì„±
     ix_to_word = {i: ch[0] for i, ch in enumerate(words)}
     word_to_ix = {}
     for idx, words in enumerate(words):
         for word in words:
             word_to_ix[word] = idx
-    print('ÄÁÅÙÃ÷ °¹¼ö : %s, ´Ü¾î °¹¼ö : %s'
-                  % (len(contents), len(ix_to_word)))
+    print('ì»¨í…ì¸  ê°¯ìˆ˜ : %s, ë‹¨ì–´ ê°¯ìˆ˜ : %s'
+          % (len(contents), len(ix_to_word)))
     return word_to_ix, ix_to_word
 
-  
+
 ####################################################
 # making input function                            #
 ####################################################
@@ -94,6 +107,7 @@ def make_inputs(rawinputs, rawtargets, word_to_ix, encoder_size, decoder_size, s
         target_weights.append(list(tmp_targets_weight))
     return encoder_input, decoder_input, targets, target_weights
 
+
 ####################################################
 # doclength check function                         #
 ####################################################
@@ -109,7 +123,7 @@ def check_doclength(docs, sep=True):
             max_document_length = document_length
     return max_document_length
 
-  
+
 ####################################################
 # making batch function                            #
 ####################################################
@@ -129,3 +143,78 @@ def make_batch(encoder_inputs, decoder_inputs, targets, target_weights):
         result_targets.append(targets[:, j])
         result_target_weights.append(target_weights[:, j])
     return result_encoder_inputs, result_decoder_inputs, result_targets, result_target_weights
+
+
+####################################################
+# text normalizing function                        #
+####################################################
+
+# normalize index
+kor_begin = 44032
+kor_end = 55199
+jaum_begin = 12593
+jaum_end = 12622
+moum_begin = 12623
+moum_end = 12643
+doublespace_pattern = re.compile('\s+')
+repeatchars_pattern = re.compile('(\w)\\1{3,}')
+title_pattern = re.compile('\[\D+\]|\[\S+\]')
+
+
+def normalize(doc, english=False, number=False, punctuation=False, title=True, remove_repeat=0):
+    if remove_repeat > 0:
+        doc = repeatchars_pattern.sub('\\1' * remove_repeat, doc)
+
+    if title:
+        doc = title_pattern.sub('', doc)
+
+    f = ''
+
+    for c in doc:
+        i = ord(c)
+
+        ##if (c == ' ') or (is_korean(i)) or (is_jaum(i)) or (is_moum(i)) or (english and is_english(i)) or (number and is_number(i)) or (punctuation and is_punctuation(i)):
+        f += c
+        ##else:
+           ## f += ' '
+
+    return doublespace_pattern.sub(' ', f).strip()
+
+
+def is_korean(i):
+    i = to_base(i)
+    return (kor_begin <= i <= kor_end) or (jaum_begin <= i <= jaum_end) or (moum_begin <= i <= moum_end)
+
+
+def is_number(i):
+    i = to_base(i)
+    return (i >= 48 and i <= 57)
+
+
+def is_english(i):
+    i = to_base(i)
+    return (i >= 97 and i <= 122) or (i >= 65 and i <= 90)
+
+
+def is_punctuation(i):
+    i = to_base(i)
+    return (i == 33 or i == 34 or i == 39 or i == 44 or i == 46 or i == 63 or i == 96)
+
+
+def is_jaum(i):
+    i = to_base(i)
+    return (jaum_begin <= i <= jaum_end)
+
+
+def is_moum(i):
+    i = to_base(i)
+    return (moum_begin <= i <= moum_end)
+
+
+def to_base(c):
+    if type(c) == str:
+        return ord(c)
+    elif type(c) == int:
+        return c
+    else:
+        raise TypeError
